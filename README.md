@@ -16,20 +16,20 @@ The objective is to transform raw sales data into meaningful insights that can s
 ## Project Structure
 
 ```text
-Sales-Data-Analysis/
+sales-data-analysis/
 │
-├── data/
-│   └── Dataset (not included)
-│
-├── images/
+├── Images/
 │   └── sales_dashboard.png
 │
-├── notebooks/
-│   └── Sales_Analysis.ipynb
+├── .gitignore
+├── README.md
+├── Sales_Analysis.ipynb
 │
-├── outputs/
-│
-└── README.md
+├── category_analysis.csv
+├── customer_analysis.csv
+├── monthly_sales.csv
+├── regional_analysis.csv
+└── subcategory_analysis.csv
 ```
 
 ## Analysis Performed
