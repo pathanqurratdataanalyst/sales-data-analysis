@@ -5,6 +5,15 @@ This project explores Superstore sales data using Python to identify business tr
 
 The objective is to transform raw sales data into meaningful insights that can support better business decisions.
 
+## Dataset Source
+
+- **Source:** Tableau Public – Sample Data
+- **Dataset:** Superstore Sales
+- **Format:** Excel (.xls)
+- **Note:** The original dataset is not included in this repository.
+
+[Download the dataset from Tableau Public](https://public.tableau.com/app/learn/sample-data)
+
 ## Tools and Technologies
 - Python
 - Pandas
