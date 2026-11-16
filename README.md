@@ -66,7 +66,7 @@ Sales-Data-Analysis/
 
 The project includes a dashboard containing six visualisations:
 
-![Superstore Sales Dashboard](images/sales_dashboard.png)
+![Superstore Sales Dashboard](Images/sales_dashboard.png)
 
 ## Data Cleaning
 - Checked missing values.
