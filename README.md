@@ -84,3 +84,12 @@ The findings highlight opportunities to improve product profitability, review di
 
 ## Author
 BSc Data Science Student | Aspiring Data Analyst
+## Conclusion
+
+This project demonstrates the use of Python for analysing retail sales data and extracting meaningful business insights.
+
+Through data cleaning, exploratory data analysis, customer analysis, regional performance analysis, and data visualization, the project identifies important sales and profitability trends.
+
+The analysis highlights the relationship between discounts and profitability and identifies profitable and loss-making product sub-categories.
+
+This project helped strengthen my practical skills in Python, Pandas, NumPy, Matplotlib, Seaborn, and data-driven business analysis.
